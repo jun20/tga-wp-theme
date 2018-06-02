@@ -1,3 +1,3 @@
 # TGA WordPress Theme – Custom Theme Development
-  - [Underscores Starter Theme](https://underscores.me/)
+  - Based on [Underscores Starter Theme](https://underscores.me/)
   
