@@ -11,12 +11,11 @@
   - Custom WP Bootstrap Navwalker class is downloaded from -> [wp-bootstrap-navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker)
   - Adding custom functions for wp_nav_menu()
 
-#### 2.) Add Bootstrap 4 in WP Theme 
+#### 2.) Add Custom Post Type and Slider in Home Page
+  [Custom Query](https://gist.github.com/jun20/cd70955d46a30174d2c93db7d7551e1b)
+  [Custom JS](https://gist.github.com/jun20/112140cd6c654f243bae0fb183fd19b3)
+#### 3.) Create Gallery Page
   - Coming soon
-#### 3.) Add Custom Post Type and Slider in Home Page
-  - Coming soon
-#### 4.) Create Gallery Page
-  - Coming soon
-#### 5.) Create Custom Widget for Social Media Sites
+#### 4.) Create Custom Widget for Social Media Sites
   - Coming soon
 
