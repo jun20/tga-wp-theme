@@ -12,8 +12,8 @@
   - Adding custom functions for wp_nav_menu()
 
 #### 2.) Add Custom Post Type and Slider in Home Page
-  [Custom Query](https://gist.github.com/jun20/cd70955d46a30174d2c93db7d7551e1b)
-  [Custom JS](https://gist.github.com/jun20/112140cd6c654f243bae0fb183fd19b3)
+  - [Custom Query](https://gist.github.com/jun20/cd70955d46a30174d2c93db7d7551e1b)
+  - [Custom JS](https://gist.github.com/jun20/112140cd6c654f243bae0fb183fd19b3)
 #### 3.) Create Gallery Page
   - Coming soon
 #### 4.) Create Custom Widget for Social Media Sites
