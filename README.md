@@ -16,6 +16,6 @@
   - [Custom JS](https://gist.github.com/jun20/112140cd6c654f243bae0fb183fd19b3)
 #### 3.) Create Gallery Page
   - Coming soon
-#### 4.) Create Custom Widget for Social Media Sites
-  - Coming soon
+#### 4.) Create Custom Widget 
+  - [gist](https://gist.github.com/jun20/dbbcaed3f18996ac302ed22195edde02)
 
